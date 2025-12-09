@@ -5,15 +5,49 @@ four pillars of computational thinking briefly in bullets)
 
 ## Steps to Run
 
+### Manual Input
+
+1. Type your list of numbers into the box labeled "input list", making sure to add a comma between each number.
+2. Click the "Sort" button.
+
+### Random Input
+
+1. Manualy set the maximum and minumum potential values for the randomized numbers, as well as how many numbers you would liek to generate.
+2. Clcik the "Randomize" button.
+3. Hit the "Sort" button.
+
 ## Hugging Face Link
 
 ## Demo video/gif/screenshot of test
 
 ### Standard Tests
 
+Tested: Random assortment of positive numbers | Result: Produced correctly sorted list
+
 <img width="1683" height="902" alt="image" src="https://github.com/user-attachments/assets/55a7b0ef-ea6c-4429-a064-bd2af8fd3054" />
 
+Tested: Random assortment of numbers including negatives | Result: Produced correctly sorted list
+
+<img width="1677" height="922" alt="image" src="https://github.com/user-attachments/assets/73644f14-0f3d-4c18-b0f2-0a63ef323390" />
+
+Tested: Random assortment of numbers including negatives and floating point numbers | Result: Produced correctly sorted list
+
+<img width="1673" height="893" alt="image" src="https://github.com/user-attachments/assets/0f24d770-8bf8-4c91-8d1b-5b7a62589d8b" />
+
+
 ### Potential Error Tests
+
+Tested: Inputting invalid characters (e.g. none numbers) | Result: Outputed error message (Not a code failing error message, just a failsafe when given inavalid inputs)
+
+<img width="1694" height="288" alt="image" src="https://github.com/user-attachments/assets/37b177a2-b80e-4bbf-a76a-e6d27e8a201d" />
+
+Tested: Setting random minimum value to be larger than the random maximum value | Result: Outputed error message (Not a code failing error message, just a failsafe)
+
+<img width="1506" height="329" alt="image" src="https://github.com/user-attachments/assets/a526c045-7cbb-4df3-b44e-f4178d097403" />
+
+Tested: Giving more than 20 numbers in the input | Result: Sorts the first 20 given numbers, and ignores any that follow
+
+<img width="1480" height="332" alt="image" src="https://github.com/user-attachments/assets/f2b3b9e1-4b7e-4230-8051-8ad02784ae4f" />
 
 
 ## Author & Acknowledgment
