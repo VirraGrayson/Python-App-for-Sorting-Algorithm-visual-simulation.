@@ -52,30 +52,30 @@
 
 Tested: Random assortment of positive numbers | Result: Produced correctly sorted list
 
-<img width="1683" height="902" alt="image" src="https://github.com/user-attachments/assets/55a7b0ef-ea6c-4429-a064-bd2af8fd3054" />
+<img width="1683" height="902" alt="image" src="https://github.com/VirraGrayson/Python-App-for-Sorting-Algorithm-visual-simulation/blob/main/images/comp1.png?raw=true" />
 
 Tested: Random assortment of numbers including negatives | Result: Produced correctly sorted list
 
-<img width="1677" height="922" alt="image" src="https://github.com/user-attachments/assets/73644f14-0f3d-4c18-b0f2-0a63ef323390" />
+<img width="1677" height="922" alt="image" src="https://github.com/VirraGrayson/Python-App-for-Sorting-Algorithm-visual-simulation/blob/main/images/comp2.png?raw=true" />
 
 Tested: Random assortment of numbers including negatives and floating point numbers | Result: Produced correctly sorted list
 
-<img width="1673" height="893" alt="image" src="https://github.com/user-attachments/assets/0f24d770-8bf8-4c91-8d1b-5b7a62589d8b" />
+<img width="1673" height="893" alt="image" src="https://github.com/VirraGrayson/Python-App-for-Sorting-Algorithm-visual-simulation/blob/main/images/comp3.png?raw=true" />
 
 
 ### Potential Error Tests
 
 Tested: Inputting invalid characters (e.g. none numbers) | Result: Outputed error message (Not a code failing error message, just a failsafe when given inavalid inputs)
 
-<img width="1694" height="288" alt="image" src="https://github.com/user-attachments/assets/37b177a2-b80e-4bbf-a76a-e6d27e8a201d" />
+<img width="1694" height="288" alt="image" src="https://github.com/VirraGrayson/Python-App-for-Sorting-Algorithm-visual-simulation/blob/main/images/comp4.png?raw=true" />
 
 Tested: Setting random minimum value to be larger than the random maximum value | Result: Outputed error message (Not a code failing error message, just a failsafe)
 
-<img width="1506" height="329" alt="image" src="https://github.com/user-attachments/assets/a526c045-7cbb-4df3-b44e-f4178d097403" />
+<img width="1506" height="329" alt="image" src="https://github.com/VirraGrayson/Python-App-for-Sorting-Algorithm-visual-simulation/blob/main/images/comp5.png?raw=true" />
 
 Tested: Giving more than 20 numbers in the input | Result: Sorts the first 20 given numbers, and ignores any that follow
 
-<img width="1480" height="332" alt="image" src="https://github.com/user-attachments/assets/f2b3b9e1-4b7e-4230-8051-8ad02784ae4f" />
+<img width="1480" height="332" alt="image" src="https://github.com/VirraGrayson/Python-App-for-Sorting-Algorithm-visual-simulation/blob/main/images/comp6.png?raw=true" />
 
 
 ## Author & Acknowledgment
