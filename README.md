@@ -79,3 +79,7 @@ Tested: Giving more than 20 numbers in the input | Result: Sorts the first 20 gi
 
 
 ## Author & Acknowledgment
+
+Used ChatGPT at AI level 4 to help will certain gaps in knowledge, such has how to impliment colored text and how Gradio functions, as well as to help with bug fixes and for ideas on how to better improve my code.
+
+Link to chatlog: https://chatgpt.com/share/6938c142-a448-8009-811a-e4333c8c3a7f
